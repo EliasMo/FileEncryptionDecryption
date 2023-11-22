@@ -53,7 +53,7 @@ This project aims to create a simple tool for encryption and decrypting files us
 - [ ] Implement file encryption functionality.
 - [ ] Implement file decryption functionality.
 - [ ] Add a command-line interface.
-- [ ] Implement key generation.
+- [1] Implement key generation.
 - [ ] Explore and implement different encryption algorithms.
 - [ ] Write project documentation
 - [ ] Test the tool with different file types
