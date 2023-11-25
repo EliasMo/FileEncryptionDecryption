@@ -13,3 +13,6 @@ def key_derivation_function():
 	key = digest.finalize()
 	return key 
 
+print(generate_key())
+
+
