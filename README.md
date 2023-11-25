@@ -40,12 +40,11 @@ This tool provides a basic implementation of file encryption and decryption usin
 
     pip install -r requirements.txt
 
-Usage
+### Usage
 
 Encrypt a file:
 
-bash
-
+```bash
 python3 encrypt.py --file input.txt --output encrypted.txt
 
 Decrypt a file:
@@ -53,3 +52,6 @@ Decrypt a file:
 bash
 
 python3 decrypt.py --file encrypted.txt --output decrypted.txt
+
+
+
